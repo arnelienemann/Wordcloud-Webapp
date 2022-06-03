@@ -1,7 +1,3 @@
-configparser
-ctypes
-pickle
-turtle
 streamlit
 numpy
 pandas
