@@ -1,0 +1,13 @@
+configparser
+ctypes
+pickle
+turtle
+streamlit
+numpy
+pandas
+WordCloud
+matplotlib
+datetime
+io
+PIL 
+python-pptx
