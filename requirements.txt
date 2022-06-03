@@ -3,6 +3,5 @@ numpy
 pandas
 WordCloud
 matplotlib
-io
 PIL 
 python-pptx
