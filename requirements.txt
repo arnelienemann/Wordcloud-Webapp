@@ -3,5 +3,4 @@ numpy
 pandas
 WordCloud
 matplotlib
-PIL 
 python-pptx
