@@ -60,7 +60,7 @@ if text is not "":
     df_freq_sorted = df_freq.sort_values("count", ascending=False) 
 
     df_freq_sorted = df_freq_sorted.head(15)
-    st.write(df_freq_sorted)
+    
 
     #st.bar_chart(data=df_freq_sorted)
 
@@ -68,6 +68,7 @@ if text is not "":
 
     imageWC = wordcloud.to_image()
     st.image(imageWC)
+    st.write(df_freq_sorted)
 
     imageWC.save("saved_pic.png")
     
